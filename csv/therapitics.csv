@@ -1,0 +1,401 @@
+therapitic_id,therapitic_name,therapitic_systemic_class_id
+1,H2 antagonists,19
+2,Proton pump inhibitor,19
+3,Anticholinergics(antimuscarinics)/Anti-spasmodics,19
+4,Anticholinergics(others),19
+5,Anti-cholinergic & anti-psychotic combination drugs,19
+6,Anti-dyspeptic/Carminatives,19
+7,Prostaglandin analogues,19
+8,Antacids,19
+9,Ulcer protective,19
+10,Anti H pylori drugs,19
+11,Drugs for Aphthous ulcer,19
+12,Motility stimulants/Dopamine antagonist,19
+13,Chelating complex,19
+14,Bulk-forming laxatives,20
+15,Stool softener,20
+16,Abdominal gas adsorbent preparations,20
+17,Stimulant purgatives,20
+18,Osmotic purgatives,20
+19,Anti-motility drugs,21
+20,Anti-diarrhoeal Antimicrobial drugs,21
+21,Anti-diarrhoeal Antiprotozoal,21
+22,Water purifying agent,21
+23,Prokinetic drugs,22
+24,Ulcerative Colitis,23
+25,Drugs for Irritable Bowel Syndrome,23
+26,Phlebotonic & Vascular protecting preparations,24
+27,Compound steroidal preparations,24
+28,Digestive Enzyme,25
+29,Anti-gallstones drugs: Bile Acids,25
+30,Angiotensin-converting enzyme (ACE) inhibitors,26
+31,Angiotensin-II receptor blocker,26
+32,Thiazide diuretics & related drugs,26
+33,Loop diuretics,26
+34,Potassium-sparing diuretics & Aldosterone antagonists,26
+35,Potassium-sparing diuretics with other diuretics,26
+36,Carbonic anhydrase inhibitor,26
+37,Osmotic diuretics,26
+38,Beta-adrenoceptor blocking drugs,26
+39,Alpha adrenoceptor blocking drugs,26
+40,Vasodilator antihypertensive drugs,26
+41,Centrally acting antihypertensive drugs(central sympatholytic),26
+42,Combined antihypertensive preparations,26
+43,Positive Inotropic drugs,27
+44,Inotropic-sympathomimetics,27
+45,Vasoconstrictor/Venotonic,27
+46,Membrane stabilizing agent (Sodium channel blockers),28
+47,Anti adrenergic agent (Beta blockers),28
+48,Agents widening AP (Potassium channel blockers),28
+49,Calcium channel blockers,28
+50,Miscellaneous (for PSVT),28
+51,Nitrates: Coronary vasodilators,29
+52,Calcium-channel blockers,29
+53,Potassium-channel activators,29
+54,Other Anti-anginal & Anti-ischaemic drugs,29
+55,Cerebral vasodilator & Neurosensory oxygenator drugs,30
+56,Peripheral Vasodilator drugs: Intermittent Claudication,30
+57,Drugs for muscular energy metabolism,30
+58,Parenteral anti-coagulants,31
+59,Oral Anti-coagulants,31
+60,Anti-platelet drugs,32
+61,Anti-fibrinolytic drugs,32
+62,Ezetimibe,33
+63,Fibrates,33
+64,Statins,33
+65,Nicotinic acid group,33
+66,Short-acting selective beta2-adrenoceptor stimulants,34
+67,Long-acting selective beta2-adrenoceptor stimulants,34
+68,Other adrenoceptor stimulants,34
+69,Anticholinergic bronchodilators,34
+70,Methyl xanthine derivatives,34
+71,Combined bronchodilators,34
+72,Respiratory corticosteroids,34
+73,Cromoglycate & related drugs,34
+74,Leukotriene receptor antagonists,34
+75,Antihistamines anti-allergics & hypo-sensitisation,34
+76,Cough suppressants,35
+77,Combined cough suppressants,35
+78,Cough expectorants & mucolytics,35
+79,Combined cough expectorants,35
+80,Respiratory stimulants: analeptics,36
+84,Benzodiazepine sedatives,37
+85,Benzodiazepine hypnotics,37
+86,Non-Benzodiazepine hypnotics,37
+87,Barbiturates,37
+88,Phenothiazine drugs,38
+89,Phenothiazine related drugs,38
+90,Butyrophenone drugs,38
+91,Atypical neuroleptic drugs,38
+92,Anti-manic drugs,38
+93,Tricyclic & related anti-depressant drugs,39
+94,SSRIs & related anti-depressant drugs,39
+95,Atypical anti-depressant drugs,39
+96,Serotonin-norepinephrine reuptake inhibitor (SNRI),39
+97,Combined anti-depressant drugs,39
+98,Primary anti-epileptic drugs,40
+99,Adjunct anti-epileptic drugs,40
+103,Anti-emetic drugs,42
+104,Anti vertigo drugs,42
+105,CNS stimulant drugs,43
+106,Appetite suppressant drugs/Anti-obesity drugs,43
+107,Drugs used in substance dependence,43
+108,Non-Opioid Analgesics,44
+109,Opioid analgesics,44
+110,Topical Analgesics,140
+111,5-HT Agonists,45
+112,Ergot Alkaloids,45
+113,Anti-histamine Preparations,46
+114,Beta-blockers,46
+115,Tricyclic Anti-depressants,46
+116,Miscellaneous prophylactic migraine preparations,46
+117,Benzylpenicillin & Phenoxymethyl penicillin,47
+118,Long acting penicillin,47
+119,Penicillinase-resistant penicillins,47
+120,Broad spectrum penicillins,47
+121,Mecillinams,47
+122,First generation Cephalosporins,47
+123,Second generation Cephalosporins,47
+124,Third generation Cephalosporins,47
+125,Fourth generation Cephalosporins,47
+126,Other beta-lactam Antibiotics,47
+127,Tetracycline Group of drugs,47
+128,Aminoglycosides,47
+129,Macrolides,47
+130,Miscellaneous Antibiotics,47
+131,Oxazolidinones,47
+132,Sulphonamides & Trimethoprim,47
+133,4-Quinolone preparations,47
+134,Anti-Tubercular Antibiotics,47
+135,Anti-Tubercular Chemotherapeutics,47
+136,Combined anti- Tubercular Preparations,47
+137,Anti-Leprotic drugs,47
+138,Respiratory viral infections (Influenza),48
+139,Hepatic viral infections (Hepatitis B),48
+140,Hepatic viral infections (Hepatitis C),48
+141,Herpes simplex & Varicella-zoster virus infections,48
+142,Drugs for HIV / Anti-retroviral drugs,48
+143,Drugs for subcutaneous and systemic mycoses,49
+144,Drugs for cutaneous mycoses,49
+145,Amoebicides,50
+146,Anti-malarial drugs,50
+147,Leishmaniacides,50
+148,Other Anti-protozoals,50
+149,Anti-helminthic,51
+150,Drugs for Infertility,52
+151,Drugs for Growth failure,52
+152,Drugs for Milk suppression,52
+153,Drugs for menopausal symptoms: Hormone replacement therapy,52
+154,Hormone preparations for other uses,52
+155,Thyroid drugs & hormones,53
+156,Anti-thyroid drugs,53
+157,Short Acting Insulin,54
+158,Medium Acting Insulin,54
+159,Long Acting Insulin,54
+160,Sulfonylureas,55
+161,Biguanides,55
+162,Alpha-Glucosidase inhibitor,55
+163,Meglitinide Analogues,55
+164,Thiazolidinedione Group,55
+165,Combination Oral hypoglycemic preparations,55
+166,Aldose reductase inhibitor,56
+167,Glucocorticoids,57
+168,Male Sex hormones (Androgens),58
+169,Female Sex hormones,58
+170,Anabolic steroid (Androgens),58
+171,Oral Contraceptive preparations,58
+172,Hormonal Implants,58
+173,Emergency Contraceptive Pill,58
+174,Drugs affecting (inhibiting) gonadotrophin,59
+175,Non-steroidal Anti-inflammatory Drugs (NSAIDs),60
+176,Drugs used for Rheumatoid Arthritis,60
+177,Drugs used in Gout,60
+178,Drugs used in Myasthenia Gravis,61
+179,Drugs used in Cerebral Palsy,61
+180,Centrally acting Skeletal Muscle Relaxants,61
+181,Locally acting Skeletal Muscle Relaxants,61
+182,Enzymes,62
+183,Sedating Anti-histamines,137
+184,Non - sedating Anti-histamines,137
+185,Anti-histamine & decongestant,137
+187,Immunosuppressant,138
+188,General (Inhalation) anesthetics,63
+189,General (Intravenous) anesthetics,63
+190,Depolarizing muscle relaxants,64
+191,Non Depolarizing muscle relaxants,64
+192,Central Depolarizing muscle relaxants,64
+193,Opioid analgesics,65
+194,Non opioid analgesics,65
+195,Anti-cholinesterases,66
+196,Benzodiazepine antagonist,66
+197,Post cardio-surgery drugs,66
+201,Topical Anti-histamines,68
+202,Local Anti-pruritic,68
+203,Topical Local Anesthetics,68
+204,Topical Anti-biotic preparations,69
+205,Topical Anti-viral preparations,69
+206,Topical Anti-fungal preparations,69
+207,Other Antifungal preparations,69
+208,Parasiticidal preparations,69
+209,Anti-infective & Anesthetic combined preparations,69
+210,Betamethasone & Combined preparations,70
+211,Clobetasol/Clobetasone & Combined Preparations,70
+212,Fluocinolone & Combined Preparations,70
+213,Hydrocortisone & Combined preparations,70
+214,Triamcinolone & Combined preparations,70
+215,Topical Vitamin D & related preparations,71
+216,Topical Retinoid & related preparations,71
+217,Oral Retinoid preparations,71
+218,Coal-tar preparations,71
+219,Dithranol & combined preparations,71
+220,Emollients & combined preparations,71
+221,Combined preparations,72
+222,Topical antibiotics for Acne,73
+223,Benzoyl peroxide, Azelaic acid & other preparations,73
+224,Topical retinoid and related preparations,73
+225,Topical antibiotic & retinoid preparations,73
+226,Oral retinoids for Acne,73
+227,Oral Hormonal preparations for Acne,73
+228,Topical urea preparations,74
+229,Hydroquinone Preparations,75
+230,Methoxsalen preparations,76
+231,Sunblock Preparation,77
+232,Medicated Shampoos,78
+233,Chlorhexidine & Chloroxylenol preparations,79
+234,Iodine compounds (Anti-septic Preparations),79
+235,Crystal violet/ Gentian violet preparations,79
+237,Vitamin-A preparations,80
+238,Vitamin-D preparations,80
+239,Vitamin-B preparations,80
+240,Vitamin-C Preparations,80
+241,Vitamin-E Preparations,80
+242,Vitamin-K Preparations,80
+243,Specific combined vitamin preparations,81
+244,Anti-oxidant Multivitamin preparations,81
+245,Nonspecific multivitamin preparations,81
+246,Specific mineral preparations,82
+247,Specific mineral & vitamin combined preparations,82
+251,Multi-vitamin & Multi-mineral combined preparations,83
+253,Oral nutritional preparations,84
+254,Parenteral Nutritional preparations,84
+255,Oral electrolytes preparations,85
+256,Plasma expanders,85
+257,Intravenous fluid preparations,85
+258,Oral Iron preparations,86
+259,Parenteral Iron Preparations,86
+261,Iron & Vitamin Combined preparations,86
+262,Iron Vitamin & Mineral Combined preparation,86
+263,Drugs for Megaloblastic Anemia,87
+264,Drugs for Haemolytic Hypoplastic & Renal Anemia,88
+265,Hormone in bone formation by stimulation,89
+266,Hormone in bone formation by Inhibiting bone resorption,89
+267,Vitamin in bone formation,89
+268,Minerals in bone formation,89
+269,Bisphosphonate preparations,89
+270,Combined preparations: Inhibiting bone resorption,89
+271,Other preparations: Inhibiting bone resorption,89
+272,Stimulation of Cartilage formation,90
+273,Drugs for Osteoarthritis,91
+274,Systemic Urinary Anti- infective,92
+275,Other Systemic Anti-infective Effective in Urinary tract infections,92
+276,Irrigation Solution used in Urological Surgery,92
+277,BPH/Urinary retention/Urinary incontinence,93
+278,Prevention of repeated kidney stone formation,94
+279,Drugs acting on the Uterus,95
+280,Drugs used in Vaginal and Vulval conditions,95
+281,Drugs for Erectile Dysfunction,95
+282,Haemodialysis solutions,96
+283,Ophthalmic Anti-bacterial products,15
+284,Ophthalmic Anti-fungal Products,15
+285,Ophthalmic Anti-viral Products,15
+286,Ophthalmic Steroid preparations,15
+287,Ophthalmic Steroid- antibiotic combined preparations,15
+288,Ophthalmic Non-Steroid drugs,15
+289,Ophthalmic Non-Steroid Combined preparations,15
+290,Mydriatic and Cycloplegic agents,15
+291,Drugs for miotics and glaucoma,15
+292,Drugs for Dry eyes,15
+293,Antioxidant vitamins & minerals for eye,15
+294,Drugs for lens opacification,15
+295,Drugs for Age-Related Macular Degeneration (AMD),15
+296,Ocular perioperative drugs,15
+297,Preparations for Ophthalmic diagnosis,15
+298,Aural Anti-bacterial preparations,97
+299,Aural Anti-fungal preparations,97
+300,Nasal Anti-histamine preparations,98
+301,Nasal Anti-cholinergic (Anti- muscarinic) Preparations,98
+302,Mast Cell Stabiliser,98
+304,Nasal Steroid Preparations,98
+305,Antidote preparations,43
+306,Anaphylaxis,137
+307,Direct Renin Inhibitors,26
+308,Anti-anginal & lipid lowering drugs,29
+310,Cytotoxic Chemotherapy,17
+311,Immunological Chemotherapy,17
+312,Hormonal Chemotherapy,17
+313,Other ophthalmic  preparations,15
+314,Vaccines, Anti-sera & Immunoglobulin,138
+315,Antihaemophilic factor,32
+316,Anti-oxidant Multivitamin Multimineral preparations,81
+317,Aural Steroid & Steroid/Antibiotic combined preparations,97
+318,Targeted Cancer Therapy,17
+319,Edothelin receptor antagonist/other anti-hypertensive,26
+320,Anti – Parkinson drugs,41
+321,Regional anesthesia,67
+322,Miscellaneous hypnotics,37
+323,Peritoneal dialysis solution,96
+325,Mouth & Throat preparations,99
+326,Dressing products for wounds/burns/ulcers,126
+328,Ophthalmic Steroid- anti allergic combined preparations,15
+329,Bile acid sequestrants,25
+330,Calcium Regulator,52
+331,Urinary Alkalinizing Agents,92
+332,Drugs affecting the immune response,71
+334,Other Topical corticosteroids,70
+335,Enema & bowel cleansing solution,20
+336,Drugs for Dementia,41
+337,Fluticasone & combined preparations topical,70
+338,Supportive Care Therapy,17
+339,Drugs used in tremor, tics & related disorders,41
+341,Contrast medium for diagnostic procedures,18
+342,Nasal non-steroid Preparations,98
+343,Combined preparation for constipation,20
+344,Other laxative preparations,20
+345,Antacid with laxative action,20
+346,Anti – Alzheimer drugs,41
+347,Other scalp preparations,78
+348,Miscellaneous Drug preparations,18
+349,Growth hormone antagonist,59
+350,Other lipid regulating drugs,33
+351,Combined analgesics,44
+352,Hematopoietic drug,31
+353,Other genito-urinary preparations,96
+354,Cholagogues, Cholelitholytics & Hepatic Protectors,25
+355,Haemostatic drugs,32
+356,Drugs affecting exocrine secretions,25
+357,Other drugs for migraine,45
+358,Topical salicylic preparations,72
+359,Drugs for reduction of serum phosphorus in patients with ESRD,96
+360,Other drugs used for peptic ulcer disease,19
+361,Drugs for corneal oedema,15
+362,Fibrinolytics (Thrombolytics),31
+363,Anabolic steroid,90
+364,Theophylline & related drugs,34
+365,Drugs for cytomegalovirus,48
+366,Zinc & Combined preparations,71
+367,Drugs used in diaper rash,69
+368,Cytotoxic immunosuppressants,17
+369,Drugs used in meniere’s diseases,42
+370,Angiotensin-converting enzyme (ACE) inhibitor,27
+371,Angiotensin-II receptor blocker,27
+372,Statins,136
+373,Angiotensin-II receptor blocker,136
+374,Proton Pump Inhibitor,127
+376,H2 receptor antagonist,127
+377,Antacids,127
+378,Antacids,128
+379,Antacids,129
+380,H2 receptor antagonist,129
+381,H2 receptor antagonist,130
+382,Proton Pump Inhibitor,128
+383,Proton Pump Inhibitor,129
+384,Proton Pump Inhibitor,130
+385,Anti-dyspeptic/Carminatives,129
+386,Motility Stimulants,129
+387,Calcium-channel blockers,136
+388,Cerebral vasodilator & Neurosensory oxygenator drugs,136
+389,Anti-platelet drugs,136
+390,Anti-coagulants,136
+391,Thiazide diuretics & related drugs,27
+392,Loop diuretics,27
+393,Potassium-sparing diuretics,27
+394,Dipeptidyl Peptidase-4 (DPP-4) inhibitor,55
+395,Glucagon-like peptide-1 (GLP-1) receptor agonists,54
+397,Local & Surface anesthesia,67
+398,Topical anti-inflammatory preparations,62
+399,Pulmonary surfactants,36
+402,Angiotensin-II receptor blocker,139
+403,Calcium-channel blockers,139
+404,Statins,139
+405,Osmotic diuretics,139
+406,Adjunct anti-epileptic drugs,56
+408,Anti-emetic drugs,22
+411,Calcium-channel blockers,26
+412,Corticosteroid,91
+413,Corticosteroid,137
+416,Combination Insulin,54
+417,Sodium-glucose co-transporter 2 (SGLT2) inhibitor,55
+418,Piperidinyl-benzisoxazole derivative,38
+419,Anti-diarrhoeal Enzyme,21
+421,Drugs used in Ano-rectal region,95
+422,Non-steroidal Anti-inflammatory Drugs (NSAIDs),44
+423,Rapid Acting Insulin,54
+424,Anti-diarrhoeal,21
+425,Ophthalmic Anti-allergic preparations,15
+426,Anti neoplastic preparations,72
+427,Decongestant,98
+428,Quaternary Ammonium preparations,79
+430,Gonadotropin-releasing hormone (GnRH) antagonist,58
+431,Bleaching and Disinfectants,79
+432,Emollients & Skin Protectives,141
+433,Alpha and Beta-adrenergic agonist,26
