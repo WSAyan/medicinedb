@@ -1,0 +1,128 @@
+systemic_id,systemic_name,systemic_parent_id
+1,Gastrointestinal system drugs,0
+2,Cardiovascular system drugs,0
+3,Respiratory system drugs,0
+4,Central nervous system drugs,0
+5,Antimicrobial drugs,0
+6,Endocrine & Metabolic System drugs,0
+7,Musculo-Skeletal System,0
+8,Allergy & Immune System,0
+9,Anesthetics & Neuromuscular blocking drugs,0
+10,Drugs acting on Skin,0
+11,Drugs for Vitamin Mineral & Nutritional deficiency disorders,0
+12,Drugs for Anemia & other blood disorders,0
+13,Drugs for Bone Formation & Bone Disorders,0
+14,Genito-urinary system drugs,0
+15,Eye preparations,0
+16,E.N.T preparations,0
+17,Carcinochemotherapeutic & Cytotoxic immunosuppressants,0
+18,Miscellaneous Drugs,0
+19,Drugs for Peptic ulcer,1
+20,Drugs for Constipation,1
+21,Drugs for Diarrhea,1
+22,Drugs for Emetics,1
+23,Drugs for chronic inflammatory disease(Anti-inflammatory),1
+24,Local preparation for anal and rectal disorder,1
+25,Drug affecting intestinal secretions,1
+26,Drugs for hypertension(Anti-hypertensive),2
+27,Drugs for congestive heart failure (CHF),2
+28,Drugs for arrhythmias(Anti-arrhythmic),2
+29,Drugs for angina & ischaemic heart diseases(Anti-ischaemic),2
+30,Drugs for peripheral and cerebral vasodilatation & neurosensory oxygenator,2
+31,Anti-coagulants,2
+32,Antiplatelet & anti-fibrinolytic/haemostatic drugs,2
+33,Drugs for lipid regulation,2
+34,Drugs for asthma & prophylaxis,3
+35,Drugs for cough & cold,3
+36,Respiratory stimulants & pulmonary surfactants,3
+37,Drugs for Sedation & Hypnosis,4
+38,Drugs for psychosis(Anti-psychotic),4
+39,Drugs for depression,4
+40,Drugs for epilepsy/convulsion,4
+41,Drugs for neurodegenerative diseases,4
+42,Drugs for nausea vomiting & vertigo,4
+43,Drugs for other CNS diseases,4
+44,Analgesics & Anti-pyretic,4
+45,Drugs for Acute Migraine Attack,4
+46,Prophylactics of Migraine,4
+47,Drugs for bacterial infections(Anti-bacterial),5
+48,Drugs for viral infections(Anti-viral),5
+49,Drugs for fungal infections(Anti-fungal),5
+50,Drugs for protozoal infections(Anti-protozoal),5
+51,Drugs for helminthiasis(Anti-helminthic),5
+52,Hypothalamic & Pituitary hormones & Anti oestrogens,6
+53,Thyroid hormones & Anti Thyroid drugs,6
+54,Anti-diabetic (Parenteral hypoglycemic drugs),6
+55,Anti-diabetic (Oral hypoglycemic drugs),6
+56,Drugs for Diabetic Peripheral Neuropathy,6
+57,Corticosteroid hormones,6
+58,Gonadal hormones (sex hormones) and their antagonists,6
+59,Other hormonal drugs,6
+60,Drugs for Inflammation and Rheumatic Diseases(Anti-inflammatory & Anti-rheumatic),7
+61,Drugs for Neuromuscular Disorders,7
+62,Drugs for Soft- tissue Inflammation,7
+63,Drugs for general anesthesia,9
+64,Neuromuscular blocking drugs (muscle relaxants),9
+65,Drugs for post-operative pain,9
+66,Drugs for anesthesia recovery,9
+67,Local anesthetics & Regional anesthetics,9
+68,Topical Antihistamines Anti-pruritic & Local anesthetics,10
+69,Topical Anti-infective Drugs,10
+70,Topical corticosteroids & combined preparations,10
+71,Anti-eczema & Anti-psoriasis preparations,10
+72,Preparations for Warts & Calluses,10
+73,Drugs for Acne & Rosacea,10
+74,Drugs for Ichthyosis & Scaly skin,10
+75,Drugs for hyperpigmentation,10
+76,Drugs for Vitiligo,10
+77,Protection of skin from solar radiation,10
+78,Shampoos & Other scalp preparations / anti-dandruff preparations,10
+79,Anti-septics & Skin disinfectants,10
+80,Specific Vitamin Preparations,11
+81,Combined vitamin preparations,11
+82,Mineral preparations,11
+83,Multi-vitamin & Multi-mineral combined preparations,11
+84,Nutritional & Energy supplement preparations,11
+85,Water & electrolytes replacement & plasma substitutes,11
+86,Drugs for Iron Deficiency Anemia,12
+87,Drugs for macrocytic Anemia,12
+88,Drugs for Other Anemia,12
+89,Drugs used in bone formation,13
+90,Drugs used in cartilage formation,13
+91,Drugs used in inflammatory diseases of bones & joints,13
+92,Urinary anti-infective,14
+93,Drugs for Prostate Enlargement,14
+94,Anti-kidney stone preparations,14
+95,Drugs used in genital problems,14
+96,Other genito-urinary preparations,14
+97,Aural preparations,16
+98,Nasal preparations,16
+99,Mouth & Throat preparations,16
+105,Antidote preparations,43
+110,Other drugs used for peptic ulcer disease,19
+111,Enema & bowel cleansing solution,20
+112,Combined preparation for constipation,20
+113,Other laxative preparations,20
+114,Antacid with laxative action,20
+115,Bile acid sequestrants,25
+116,Cholagogues, Cholelitholytics & Hepatic Protectors,25
+117,Drugs affecting exocrine secretions,25
+118,Direct Renin Inhibitors,26
+119,Edothelin receptor antagonist/other anti-hypertensive,26
+120,Thiazide & related diuretics,26
+121,Combined preparations of Anti-anginal & lipid lowering drugs,29
+122,Hematopoietic drug,31
+123,Fibrinolytics (Thrombolytics),31
+124,Antihaemophilic factor,32
+125,Haemostatic drugs,32
+126,Dressing products ,10
+127,Drugs for GERD,1
+128,Drugs for Esophagitis,1
+129,Drugs for Dyspepsia,1
+130,Drugs for Zollinger-Ellison Syndrome,1
+133,Cerebrovascular System Drugs,0
+136,Drugs for Ischemic Stroke,133
+137,Drugs used in Allergic disorders,8
+138,Vaccines, Anti-sera & immunological drugs,8
+139,Drugs for Hemorrhagic Stroke,133
+140,Analgesics drugs (Topical),10
